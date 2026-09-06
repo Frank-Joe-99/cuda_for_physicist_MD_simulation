@@ -98,10 +98,10 @@ hello.exe
 ## 📌 Learning Progress
 
 - [x] Chapter 2 — Thread Organization (basic kernel launch, `blockIdx`, `threadIdx`, `dim3`)
-- [ ] Chapter 3 — Basic Framework
-- [ ] Chapter 4 — Error Checking
-- [ ] Chapter 5 — Prerequisites for Speedup
-- [ ] Chapter 6–14 — Advanced Topics
+- [x] Chapter 3 — Basic Framework
+- [x] Chapter 4 — Error Checking
+- [x] Chapter 5 — Prerequisites for Speedup
+- [x] Chapter 6–14 — Advanced Topics
 
 ## 🙏 Acknowledgements
 
